@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b6f80de.css",
+    "main.js": "/static/js/main.7144e74f.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/me.jpg": "/static/media/me.e80155a7683899d00777.jpg",
+    "static/media/php.png": "/static/media/php.f5db6e1b6e708b3b7ffe.png",
+    "static/media/mb.png": "/static/media/mb.5b6a7e8cdf2fef309b92.png",
+    "static/media/ruts.jpg": "/static/media/ruts.3a07e11b574bf3bc1ddf.jpg",
+    "static/media/morrisgd.jpg": "/static/media/morrisgd.5e690682eb9f99276483.jpg",
+    "static/media/sql.png": "/static/media/sql.85fb38d6773862e917f4.png",
+    "static/media/pre.png": "/static/media/pre.20bc25bb8b0cb9426a50.png",
+    "static/media/urls.png": "/static/media/urls.7cad13952084a648bfbc.png",
+    "static/media/css.png": "/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/html5.png": "/static/media/html5.5f77e90e11607bf9b3e1.png",
+    "static/media/cpp_logo.png": "/static/media/cpp_logo.053a898d752aef72651e.png",
+    "static/media/pma.png": "/static/media/pma.8c513cc591abfd123626.png",
+    "static/media/python.png": "/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/mariadb.png": "/static/media/mariadb.1d7a68aa23f6e811cb95.png",
+    "static/media/mysql.png": "/static/media/mysql.658213c2f12ef841f107.png",
+    "static/media/jquery.png": "/static/media/jquery.0ce0c046113a3f4a73bc.png",
+    "static/media/krakend.webp": "/static/media/krakend.27b4dd6935a53328ba01.webp",
+    "static/media/sqlite.png": "/static/media/sqlite.1fc4ea5035d6c4a142af.png",
+    "static/media/java.png": "/static/media/java.082727062587e5c987c5.png",
+    "static/media/square.png": "/static/media/square.6c9c6f8a8565df9435e7.png",
+    "static/media/litefs.svg": "/static/media/litefs.5bf14e8f5ca93c8a9a387125866fb707.svg",
+    "static/media/flask.webp": "/static/media/flask.e3497a1c42d5bec4a298.webp",
+    "static/media/nextjs.svg": "/static/media/nextjs.1b2b52c044b9dcea988e68b966864c5a.svg",
+    "static/media/javascript.svg": "/static/media/javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "index.html": "/index.html",
+    "static/media/react.svg": "/static/media/react.3a03708e42481565259f85329d20b695.svg",
+    "static/media/fastapi.svg": "/static/media/fastapi.6c84dc4ea9626837be0ce2c5523b6d52.svg",
+    "main.1b6f80de.css.map": "/static/css/main.1b6f80de.css.map",
+    "main.7144e74f.js.map": "/static/js/main.7144e74f.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6f80de.css",
+    "static/js/main.7144e74f.js"
+  ]
+}
