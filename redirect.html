@@ -10,14 +10,17 @@
 
       // Detect iOS
       if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        window.alert("apple");
         window.location.href = "https://maps.apple.com/place?coordinate=33.649797,-117.839417";
       } 
       // Detect Android
       else if (/android/i.test(userAgent)) {
+        window.alert("google");
         window.location.href = "https://www.google.com/maps/search/?api=1&query=33.649797%2C-117.839417";
       } 
       // Fallback for desktop or unknown
       else {
+        window.alert("other");
         window.location.href = "https://www.google.com/maps/search/?api=1&query=33.649797%2C-117.839417";
       }
     };
@@ -27,3 +30,4 @@
   <p>Redirecting you to directions...</p>
 </body>
 </html>
+
