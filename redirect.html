@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Get Directions</title>
+  <script>
+    window.onload = function() {
+      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+      // Detect iOS
+      if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        window.location.href = "https://maps.apple.com/place?coordinate=33.649797,-117.839417";
+      } 
+      // Detect Android
+      else if (/android/i.test(userAgent)) {
+        window.location.href = "https://www.google.com/maps/search/?api=1&query=33.649797%2C-117.839417";
+      } 
+      // Fallback for desktop or unknown
+      else {
+        window.location.href = "https://www.google.com/maps/search/?api=1&query=33.649797%2C-117.839417";
+      }
+    };
+  </script>
+</head>
+<body>
+  <p>Redirecting you to directions...</p>
+</body>
+</html>
